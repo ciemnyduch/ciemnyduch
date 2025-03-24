@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🎯 Threat Hunting Scenario Projects
 
-## 🧱 Fullstack Projects (coming soon)
+## 🧱 Fullstack Development Projects (coming soon)
 
 
 <hr/>
