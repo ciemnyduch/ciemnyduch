@@ -9,6 +9,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Microsoft Azure Sentinel Honeypot lab (SIEM Attack Map)](https://github.com/ciemnyduch/AzureHoneypotLab)**
 
+## 🎯 Threat Hunting Scenario Projects
+
+
 <hr/>
 
 ## 👾 Connect With Me 👾
